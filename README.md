@@ -14,6 +14,11 @@ As of right now players can do the following:
         - npc
         - enemy
 
+    ** there are no combat animations (yet) so combat is hard to see unless you have dev console open
+    ** some of the mouse click interactions are a little messed up still, you might need to move the character/mouse a bit for it to fire...
+    ** player must be in 'range' of most items and entitys to interact with them -> MAKE SURE YOUR CLOSE ENOUGH TO WHAT YOUR CLICKING ON
+        - visual ques for this coming soon!
+
 # How to Play
 
 To play, walk up to the green capsul shaped object on the screen with the bouncing 'quest' icon above its head.
