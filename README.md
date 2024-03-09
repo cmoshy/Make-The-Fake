@@ -21,17 +21,17 @@ As of right now players can do the following:
 
 # How to Play
 
-To play, walk up to the green capsul shaped object on the screen with the bouncing 'quest' icon above its head.
+To play, walk up to the green capsule shaped object on the screen with the bouncing 'quest' icon above its head.
 
 IF YOU SEE A BOUNCING QUEST ICON IT MEANS YOU CAN ACCEPT A QUEST
-  - click on the green capsul
+  - click on the green capsule
   - click on the main dialogue directly
   - click exit or accept at any time or when prompted
 
 - complete the quests
 - first three are currently available
 
-IF YOU HAVE COMPLETED THE QUEST, GO BACK TO THE GREEN 'CAPSUL' AND CLICK ON IT AGAIN
+IF YOU HAVE COMPLETED THE QUEST, GO BACK TO THE GREEN 'capsule' AND CLICK ON IT AGAIN
   - it should guide you to the next quest
 
 
