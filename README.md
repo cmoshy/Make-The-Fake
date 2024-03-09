@@ -13,7 +13,8 @@ As of right now players can do the following:
       - anything inherently 'alive' 
         - npc
         - enemy
-
+        
+    ** press 'f' to toggle debug (helps with clicks sometimes)
     ** there are no combat animations (yet) so combat is hard to see unless you have dev console open
     ** some of the mouse click interactions are a little messed up still, you might need to move the character/mouse a bit for it to fire...
     ** player must be in 'range' of most items and entitys to interact with them -> MAKE SURE YOUR CLOSE ENOUGH TO WHAT YOUR CLICKING ON
