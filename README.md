@@ -2,7 +2,7 @@
 
 This is Time Waster. Its an attempt at a short 'RPG' style video game. As you play you will progress through a short quest chain, culminating at a final boss fight.
 
-# WHATS PLAYABLE
+# Whats Playable
 As of right now players can do the following:
     - move
     - light attack '1'
@@ -14,7 +14,7 @@ As of right now players can do the following:
         - npc
         - enemy
 
-# HOW TO PLAY
+# How to Play
 
 To play, walk up to the green capsul shaped object on the screen with the bouncing 'quest' icon above its head.
 
